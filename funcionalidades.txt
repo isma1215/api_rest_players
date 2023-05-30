@@ -1,0 +1,2 @@
+solo la cuenta master puede editar, eliminar, agregar, obtener, jugadores de cualquier equipo.
+las cuentas de equipos olo pueden modificar jugares de el quipo asociado 
